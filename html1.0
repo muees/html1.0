@@ -2,5 +2,11 @@
 <head>home page</head>
 </body>
 <h1>Welcome to Cafe World</h1>
+<h2>food mane</h2>
+<ol>
+<li>tea</li>
+<li>coffee</li>
+<li>apple juice</li>
+</ol>
 </body>
 </html>
